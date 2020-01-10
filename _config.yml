@@ -7,7 +7,7 @@ title               : 'Глазастики - обучающие роботы д
 email               : glazastics@gmail.com
 address             : 'Москва, Потаповский переулок, д. 16, стр. 10'
 phone               : 89964002590
-tagline             : 'description for your new site here' 
+tagline             : 'Инновации в образовании' 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -91,14 +91,14 @@ hero_sass_slider:
   - image: 'img/carusel/s3.jpg'
 
 # product [ only one image ]
-hero_product_name: 'The most Creative <br> Theme ever for Business'
+hero_product_name: 'Это <br> Глазастики'
 hero_product_text: 'The first is a non technical method which requires the use of adware removal software. Download  free adware and spyware removal software and use advanced tools to help prevent getting infected.'
 hero_product_image: 'img/hero/hero-img2.png'
 hero_product_btn_one_link: '#'
 hero_product_btn_one_text:  'Browse free demo'
 
 # product_video [ video type mp4 ]
-hero_product_video_name: 'The most Creative <br> Theame ever in Business' 
+hero_product_video_name: 'Это <br> Глазастики' 
 hero_product_video_text: 'The first is a non technical method which requires the use of adware removal software. ownload free adware and spyware removal'
 hero_product_video_image: 'img/iPhoneX.png'
 hero_product_video_video: 'vdo/app-bv.mp4'
@@ -106,21 +106,21 @@ hero_product_video_btn_one_link: '#'
 hero_product_video_btn_one_text:  'Browse free demo'
 
 # product_background_image
-hero_product_background_image_name: 'The most Creative <br> Theame ever in Business' 
+hero_product_background_image_name: 'Это <br> Глазастики' 
 hero_product_background_image_text: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools to help prevent getting infected.'
 hero_product_background_image_image: 'img/iPhoneX.png'
 hero_product_background_image_btn_one_link: '#'
 hero_product_background_image_btn_one_text:  'Browse free demo'
 
 # product_fixed_image
-hero_product_fixed_image_name: 'The most Creative <br> Theame ever in Business' 
+hero_product_fixed_image_name: 'Это <br> Глазастики' 
 hero_product_fixed_image_text: 'The first is a non technical method which requires the use of adware removal software.  Download free adware and spyware removal software and use advanced tools to help prevent  getting infected.'
 hero_product_fixed_image_image: 'img/iPhoneX.png'
 hero_product_fixed_image_btn_one_link: '#'
 hero_product_fixed_image_btn_one_text:  'Browse free demo'
 
 # product_slider
-hero_product_slider_name: 'The most Creative <br> Theame ever in Business' 
+hero_product_slider_name: 'Это <br> Глазастики' 
 hero_product_slider_text: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools to help prevent getting infected.'
 hero_product_slider_image: 'img/iPhoneX.png'
 hero_product_slider_btn_one_link: '#'
