@@ -182,16 +182,24 @@ whitelist:
 ####################################
 
 feature_image_one: 'img/feature/i1.png'
-feature_title_one: 'Collaboration'
+feature_title_one: 'Ценности'
 feature_description_one: 'Some days a motivational quote can provide a quick pick-me-up for employees and even  management.'
 
-feature_image_two: 'img/feature/i3.png'
-feature_title_two: 'Full of features'
+feature_image_two: 'img/feature/i2.png'
+feature_title_two: 'Вера'
 feature_description_two: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
 
-feature_image_three: 'img/feature/i4.png'
-feature_title_three: 'Global Framework'
+feature_image_three: 'img/feature/i3.png'
+feature_title_three: 'Независимое мышление'
 feature_description_three: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
+
+feature_image_four: 'img/feature/i4.png'
+feature_title_four: 'Командная работа'
+feature_description_four: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
+
+feature_image_five: 'img/feature/i5.png'
+feature_title_five: 'Забота о других'
+feature_description_five: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
 
 
 ####################################
