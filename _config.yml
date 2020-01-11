@@ -116,8 +116,8 @@ hero_product_background_image_btn_one_text:  'Browse free demo'
 hero_product_fixed_image_name: 'Откройте мир глазастиков' 
 hero_product_fixed_image_text: ' Создаем глазастых роботов-персонажей, которые помогают в воспитании, образовании и обучении.'
 hero_product_fixed_image_image: 'img/iPhoneX.png'
-hero_product_fixed_image_btn_one_link: '#'
-hero_product_fixed_image_btn_one_text:  'Browse free demo'
+hero_product_fixed_image_btn_one_link: '/request-demo/'
+hero_product_fixed_image_btn_one_text:  'Скачать бесплатно'
 
 # product_slider
 hero_product_slider_name: 'Роботы заменят 800 млн работ к 2030' 
