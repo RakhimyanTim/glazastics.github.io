@@ -113,8 +113,8 @@ hero_product_background_image_btn_one_link: '#'
 hero_product_background_image_btn_one_text:  'Browse free demo'
 
 # product_fixed_image
-hero_product_fixed_image_name: 'Создаем глазастых персонажей, которые помогают в обучении' 
-hero_product_fixed_image_text: ' Создаем глазастых персонажей, которые помогают в обучении.'
+hero_product_fixed_image_name: 'Откройте мир глазастиков' 
+hero_product_fixed_image_text: ' Создаем глазастых персонажей, которые помогают в воспитании, образовании и обучении.'
 hero_product_fixed_image_image: 'img/iPhoneX.png'
 hero_product_fixed_image_btn_one_link: '#'
 hero_product_fixed_image_btn_one_text:  'Browse free demo'
