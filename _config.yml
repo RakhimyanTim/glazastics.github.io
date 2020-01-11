@@ -92,14 +92,14 @@ hero_sass_slider:
 
 # product [ only one image ]
 hero_product_name: 'Роботы заменят 800 млн работ к 2030'
-hero_product_text: 'Мы открываем мир роботов детям, превращая смартфоны в социальных, образовательных и доступных роботов для всех, кто владеет смартфоном.'
+hero_product_text: 'Если мы не изменим то, КАК мы учим, то через 30 лет у нас будет огромная проблема.'
 hero_product_image: 'img/hero/hero-img2.png'
 hero_product_btn_one_link: '#'
 hero_product_btn_one_text:  'Browse free demo'
 
 # product_video [ video type mp4 ]
 hero_product_video_name: 'Роботы заменят 800 млн работ к 2030' 
-hero_product_video_text: 'Мы открываем мир роботов детям, превращая смартфоны в социальных, образовательных и доступных роботов для всех, кто владеет смартфоном.'
+hero_product_video_text: 'Если мы не изменим то, КАК мы учим, то через 30 лет у нас будет огромная проблема.'
 hero_product_video_image: 'img/iPhoneX.png'
 hero_product_video_video: 'vdo/app-bv.mp4'
 hero_product_video_btn_one_link: '#'
@@ -107,21 +107,21 @@ hero_product_video_btn_one_text:  'Browse free demo'
 
 # product_background_image
 hero_product_background_image_name: 'Роботы заменят 800 млн работ к 2030' 
-hero_product_background_image_text: 'Мы открываем мир роботов детям, превращая смартфоны в социальных, образовательных и доступных роботов для всех, кто владеет смартфоном.'
+hero_product_background_image_text: 'Если мы не изменим то, КАК мы учим, то через 30 лет у нас будет огромная проблема.'
 hero_product_background_image_image: 'img/iPhoneX.png'
 hero_product_background_image_btn_one_link: '#'
 hero_product_background_image_btn_one_text:  'Browse free demo'
 
 # product_fixed_image
 hero_product_fixed_image_name: 'Роботы заменят 800 млн работ к 2030' 
-hero_product_fixed_image_text: 'Мы открываем мир роботов детям, превращая смартфоны в социальных, образовательных и доступных роботов для всех, кто владеет смартфоном.'
+hero_product_fixed_image_text: 'Если мы не изменим то, КАК мы учим, то через 30 лет у нас будет огромная проблема.'
 hero_product_fixed_image_image: 'img/iPhoneX.png'
 hero_product_fixed_image_btn_one_link: '#'
 hero_product_fixed_image_btn_one_text:  'Browse free demo'
 
 # product_slider
 hero_product_slider_name: 'Роботы заменят 800 млн работ к 2030' 
-hero_product_slider_text: 'Мы открываем мир роботов детям, превращая смартфоны в социальных, образовательных и доступных роботов для всех, кто владеет смартфоном.'
+hero_product_slider_text: 'Если мы не изменим то, КАК мы учим, то через 30 лет у нас будет огромная проблема.'
 hero_product_slider_image: 'img/iPhoneX.png'
 hero_product_slider_btn_one_link: '#'
 hero_product_slider_btn_one_text:  'Browse free demo'
@@ -198,7 +198,7 @@ feature_description_three: 'Some days a motivational quote can provide a quick p
 ######  marketing Section   ######
 ####################################
 marketing_title: 'Образование - огромный вызов сегодня'
-marketing_description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools to help prevent getting infected. Spyware scan review is a free service for anyone interested in downloading spyware/adware removal software. Our adware remover is the most trusted.'
+marketing_description: 'То, КАК мы обучаем, и то, ЧЕМУ мы учим наших детей - это вещи 200-летней давности, и они основаны на знании. Мы не можем учить наших детей конкурировать с машинами - они просто умнее.'
 marketing_image_one: '/img/marketing/d1.png'
 marketing_image_two: '/img/marketing/d2.png'
 marketing_btn_text: 'Browse free demo'
