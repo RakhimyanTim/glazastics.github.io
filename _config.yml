@@ -193,20 +193,12 @@ feature_image_three: 'img/feature/i3.png'
 feature_title_three: 'Независимое мышление'
 feature_description_three: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
 
-feature_image_four: 'img/feature/i4.png'
-feature_title_four: 'Командная работа'
-feature_description_four: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
-
-feature_image_five: 'img/feature/i5.png'
-feature_title_five: 'Забота о других'
-feature_description_five: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
-
 
 ####################################
 ######  marketing Section   ######
 ####################################
 marketing_title: 'Образование - огромный вызов сегодня'
-marketing_description: 'Мы должны учить чему-то уникальному - что машины никогда не смогу освоить. Это так называемые магкие навыки, которые нужно развиваит у нанаших детей сегодня.'
+marketing_description: 'Мы должны учить чему-то уникальному - что машины никогда не смогу освоить. Это так называемые магкие навыки, которые нужно развиваит у нанаших детей: ценности, вера, независимое мышление, командная работа и забота о других.'
 marketing_image_one: '/img/marketing/d1.png'
 marketing_image_two: '/img/marketing/d2.png'
 marketing_btn_text: 'Browse free demo'
