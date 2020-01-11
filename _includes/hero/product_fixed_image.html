@@ -10,9 +10,18 @@
                     <p class="pt-20 pb-20 mw-510">
                         {{ site.hero_product_fixed_image_text }}
                     </p>
-                    <a href="{{ site.hero_product_fixed_image_btn_one_link | absolute_url }}" class="genric-btn2">
+<!--                     <a href="{{ site.hero_product_fixed_image_btn_one_link | absolute_url }}" class="genric-btn2">
                         {{ site.hero_product_fixed_image_btn_one_text }}
-                    </a>
+                    </a> -->
+                    <div class="row align-items-center justify-content-center text-center">
+                <div class="col-lg-8">
+                    <h1 class="text-white mb-5">{{ site.cta_title }}</h1>
+                    <div class="cta-btn">
+                        <a href="{{ site.cta_btn_link_one }}" class="ct-btn1 mr-sm-3 mb-sm-0 mb-3">{{ site.cta_btn_text_one }}</a>
+                        <a href="{{ site.cta_btn_link_two }}" class="ct-btn2 active">{{ site.cta_btn_text_two }}</a>
+                    </div>
+                </div>
+            </div>
                 </div>
 
                 <div class="col-lg-6">
