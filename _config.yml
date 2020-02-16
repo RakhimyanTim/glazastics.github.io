@@ -2,8 +2,8 @@
 ####################################
 ######     Global start     ######
 ####################################
-name                : 'Глазастики'
-title               : 'Глазастики - глазастые роботы-персонажи для детей.'
+name                : 'Глазастикс'
+title               : 'Робот, который учит рисованию, танцам, физкультуре, музыке и здоровью.'
 email               : glazastics@gmail.com
 address             : 'Москва, Потаповский переулок, д. 16, стр. 10'
 phone               : 89964002590
@@ -113,8 +113,8 @@ hero_product_background_image_btn_one_link: '#'
 hero_product_background_image_btn_one_text:  'Browse free demo'
 
 # product_fixed_image
-hero_product_fixed_image_name: 'Откройте мир глазастиков' 
-hero_product_fixed_image_text: ' Создаем глазастых роботов-персонажей, которые помогают в воспитании, образовании и обучении.'
+hero_product_fixed_image_name: 'Откройте мир Глазастикс' 
+hero_product_fixed_image_text: ' Глазастикс - это робот, который учит рисованию, танцам, физкультуре, музыке и здоровью.'
 hero_product_fixed_image_image: 'img/iPhoneX.png'
 hero_product_fixed_image_btn_one_link: 'request-demo.html'
 hero_product_fixed_image_btn_one_text:  'Скачать бесплатно'
